@@ -1,0 +1,25 @@
+title: vires-in-numeris.eth  # name of the site
+author: # name of site's author
+email:  # email of site's author
+url: https://vires-in-numeris.org # root address of the site
+baseurl: "" # subpath of the site, e.g. "/blog" (leave it blank "" if you're site shouldn't use a subpath)
+description: > # description of the site (multiple lines allowed)
+  A highly reliable Livepeer Orchestrator & Transcoder with a flawless track record since March 2019.
+favicon: "logo.png" # name+extension of favicon (which must be put on the root folder)
+# goat_counter: "yoursitename" # put your GoatCounter name if you want to use GoatCounter analytics
+
+remote_theme: riggraz/no-style-please
+
+theme_config:
+  appearance: "light" # can be "light", "dark" or "auto"
+  back_home_text: ".." # customize text for homepage link in post layout
+  date_format: "%d-%m-%Y" # customize how date is formatted
+  show_description: true # show blog description in home page
+
+sass:
+  style: :compressed
+
+markdown: kramdown
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
