@@ -11,10 +11,9 @@ Setup:
 - Running my own Ethereum and Arbitrum nodes
 - Monitoring through Grafana and bots
 
-Part of the Livepeer community since June 2018. Reach out to me on Discord: @vires-in-numeris (#5324, will never DM you first)
-Regular updates and more info: <a href="https://forum.livepeer.org/t/transcoder-campaign-0x525-with-telegram-bot" style="color: black; font-weight: bold; text-decoration: underline;">Livepeer Forum</a>
-Automatic notifications about reward calls, winning tickets, fee/reward cut changes and more on the telegram channel: <a href="https://t.me/transcoder" style="color: black; font-weight: bold; text-decoration: underline;">https://t.me/transcoder</a>
-
+Part of the Livepeer community since June 2018. Reach out to me on Discord: @vires-in-numeris (#5324, will never DM you first).<br>
+Automatic notifications about reward calls, winning tickets, fee/reward cut changes and more on the telegram channel: <a href="https://t.me/transcoder" style="color: black; font-weight: bold; text-decoration: underline;">https://t.me/transcoder</a>.
+Regular updates and more info: <a href="https://forum.livepeer.org/t/transcoder-campaign-0x525-with-telegram-bot" style="color: black; font-weight: bold; text-decoration: underline;">Livepeer Forum</a>.<br><br>
 
 Thank you for staking with me:
 
