@@ -2,7 +2,7 @@
 layout: home
 ---
 
-Currently the top earner in transcoding fees - while having one of the lowest Fee and Reward Cuts. 
+Currently the top earner in transcoding fees - while having one of the lowest fee and reward cuts. 
 
 Setup: 
 - GPUs: 5x 1080, 2x 1080Ti (will add more if necessary)
