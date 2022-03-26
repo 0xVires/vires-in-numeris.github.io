@@ -12,8 +12,8 @@ Setup:
 - Monitoring through Grafana and bots
 
 Part of the Livepeer community since June 2018. Reach out to me on Discord: @vires-in-numeris (#5324, will never DM you first)
-Regular updates and more info: <a href="https://forum.livepeer.org/t/transcoder-campaign-0x525-with-telegram-bot" style="color: black; font-weight: bold; text-decoration: none;">Livepeer Forum</a>
+Regular updates and more info: <a href="https://forum.livepeer.org/t/transcoder-campaign-0x525-with-telegram-bot" style="color: black; font-weight: bold; text-decoration: underline;">Livepeer Forum</a>
 
 Thank you for staking with me:
 
-<a href="https://explorer.livepeer.org/accounts/0x525419ff5707190389bfb5c87c375d710f5fcb0e/orchestrating" style="color: black; font-weight: bold; text-decoration: none;">Livepeer Explorer - vires-in-numeris.eth</a>
+<a href="https://explorer.livepeer.org/accounts/0x525419ff5707190389bfb5c87c375d710f5fcb0e/orchestrating" style="color: black; font-weight: bold; text-decoration: underline;">Livepeer Explorer - vires-in-numeris.eth</a>
