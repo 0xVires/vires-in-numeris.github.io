@@ -5,7 +5,7 @@ layout: home
 Currently the top earner in transcoding fees - while having one of the lowest fee and reward cuts. 
 
 Setup: 
-- GPUs: 5x 1080, 3x 1080Ti (will add more if necessary)
+- GPUs: 13x RTX 4000 Ada in total (will add more if necessary)
 - Georouting (currently US and EU)
 - GPUs running on dedicated servers for optimal performance
 - Running my own Ethereum and Arbitrum nodes
